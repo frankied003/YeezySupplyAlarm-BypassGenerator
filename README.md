@@ -7,3 +7,5 @@ Creates Bypass links every 5 min and plays Gold Digger by Kanye when pw page is 
 3. Download this program with all of its content, put it into a folder on dekstop, navigate to that folder in terminal, then start the code by simply typing 'python main.py', if this is all confusing, look again at digibot-v2 readme, a lot more info there
 4. Keep the terminal open all night, code won't run if you close it
 4. NO GUARANTEE THIS WORKS, JUST MADE THIS ON JULY 10TH 2019
+
+NOTE: If you want to have a change delay, just go into config.json and alter the delay, its in seconds
