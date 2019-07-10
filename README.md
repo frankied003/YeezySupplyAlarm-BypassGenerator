@@ -1,5 +1,5 @@
 # YeezySupplyAlarm-BypassGenerator
-Creates Bypass links every 20 min and plays Gold Digger by Kanye when pw page is up
+Creates Bypass links every 10 min and plays Gold Digger by Kanye when pw page is up
 
 
 1. Have python installed obviously, if you don't know how to do this, look at digibot-v2 or digibot-v1 readme.
