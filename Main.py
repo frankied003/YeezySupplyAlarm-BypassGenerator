@@ -29,9 +29,6 @@ def checkPasswordPage():
         mixer.music.play()
         time.sleep(10000)
     else:
-        mixer.init()
-        mixer.music.load('Kanye West  Gold Digger ft. Jamie Foxx.mp3')
-        mixer.music.play()
         print("Password page down, continuing processes...")
     return r
 
