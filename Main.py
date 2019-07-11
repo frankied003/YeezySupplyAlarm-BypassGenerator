@@ -57,10 +57,12 @@ def addToCart():
     atcLink = data['Store'] + '/cart/' + str(variantArray[0]) + ':1'
     r = session.get(atcLink)
 
-    inqueue = False
+    inqueue = True
     while inqueue == True:
-        time.sleep(10)
         if "queue" in r.url:
+            time.sleep(10)
+            print("In Queue...")
+        else:
             break
 
     # remove it from cart, but url with item in cart is still available (named url)
