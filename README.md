@@ -9,3 +9,5 @@ Creates Bypass links every 5 min and plays Gold Digger by Kanye when pw page is 
 4. NO GUARANTEE THIS WORKS, JUST MADE THIS ON JULY 10TH 2019
 
 NOTE: If you want to have a change delay, just go into config.json and alter the delay, its in seconds
+
+OUT OF DATE - YEEZYSUPPLY IS NOW DEMANDWARE, NOT SHOPIFY
